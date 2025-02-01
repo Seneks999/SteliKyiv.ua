@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 999px;
+  margin: 0 auto;
+}
+
+.category {
+  font-size: 22px;
+}
+
+.img-articles {
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.current_page_item > a {
+  display: none;
+}
+
+/* ================================================== */
